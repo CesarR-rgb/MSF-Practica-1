@@ -1,6 +1,5 @@
 """
-Práctica 0: Mecánica pulmonar
-
+Práctica 1: Diseño de controladores
 Departamento de Ingeniería Eléctrica y Electrónica, Ingeniería Biomédica
 Tecnológico Nacional de México [TecNM - Tijuana]
 Blvd. Alberto Limón Padilla s/n, C.P. 22454, Tijuana, B.C., México
